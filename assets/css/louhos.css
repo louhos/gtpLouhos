@@ -1,15 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu);
 
-.title-slide hgroup > h1 {
-    font-family: "Ubuntu", sans-serif;
-    color: #46d1fd;
-}
 
-.title-slide hgroup > h2 {
-    font-family: "Ubuntu", sans-serif;
-    color: #515151;
-    font-size: 42px;
-}
 
 article p, article li, article .build {
     font-size: 32px;
