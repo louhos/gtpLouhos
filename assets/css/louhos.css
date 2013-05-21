@@ -1,6 +1,51 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu);
 
+.title-slide {
+    font-family: "Ubuntu", sans-serif;
+}
 
+.title-slide hgroup h1 {
+    color: #46d1fd;
+    margin-bottom: 25px;
+}
+
+.title-slide hgroup h2 {
+    color: #515151;
+    font-size: 42px;
+}
+
+.title-slide hgroup h3 {
+    color: #818181;
+    font-weight: normal;
+    font-size: 36px;
+}
+
+/* Slides */
+
+slide:not(.segue) h2{
+  font-family: 'Ubuntu', 'Calibri', Arial, sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: none;
+  letter-spacing: -2px;
+  line-height: 1.2em;
+  color: #46d1fd;
+}
+
+/* Fonts and Spacing */
+article p, article li, article li.build{
+  font-family: 'Ubuntu', 'Crimson Text', 'Garamond',  'Palatino', sans-serif;
+  text-align: left;
+  font-size:22px;
+  line-height: 1.5em;
+}
+
+/* Misc */
+
+ .presenter {
+    margin-right: 25px;
+}
 
 article p, article li, article .build {
     font-size: 32px;
