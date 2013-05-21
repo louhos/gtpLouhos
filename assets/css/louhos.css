@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+.title-slide hgroup > h1 {
+    font-family: "Ubuntu", sans-serif;  
+}
+
+article p, article li, article .build {
+    font-size: 32px;
+}
+
+.reference li {
+    font-size: 18px;
+    text-align: left;
+}
+
+.centered-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /* For general browser */
+    max-width: 100%;
+    max-height: 100%;
+}
