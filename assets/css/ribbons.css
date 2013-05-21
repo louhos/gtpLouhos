@@ -4,20 +4,20 @@
 /* Choose meaningful colors for background and text */
 
 .example {
+  font-family: "Ubuntu", sans-serif; 
   background-color: #121621;
   top: 1.2em;
-  right: -3.2em;
+  right: -2.5em;
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   transform: rotate(45deg);
   -webkit-box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
   -moz-box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
   box-shadow: 0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
-  color: #FF0;
+  color: #46d1fd;
   display: block;
   padding: .6em 3.5em;
   position: absolute;
-  font: bold .82em sans-serif;
   text-align: center;
   text-decoration: none;
   text-shadow: 1px -1px 8px rgba(0,0,0,0.60);
