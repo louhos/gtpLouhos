@@ -48,6 +48,39 @@ article p, article li, article li.build{
   font-weight: bold;
 }
 
+.attribution {
+  color: #fff;
+  position: absolute;
+  bottom: 0px;
+  font-size: 16px;
+}
+
+.source {
+  position: absolute;
+  bottom: 0px;
+  font-size: 26px;
+}
+
+.gigantic {
+  color: #ff6c00;
+  font-size: 96px;
+  font-weight: bold;
+}
+
+.moderate {
+  color: #ff6c00;
+  font-size: 62px;
+  font-weight: bold;
+}
+
+.orange {
+  color: #ff6c00;
+}
+
+.blue {
+  color: #46d1fd;
+}
+
 .presenter {
    display: block;
     margin-right: auto;
