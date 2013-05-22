@@ -14,29 +14,21 @@ widgets     : [bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 
 --- &vcenter
-
-## Hei!
-
 <div class="row">
-  <div class="span3">
-    <img src="assets/img/joona_sunglasses.jpg" class="presenter"/>
-    <h3 style="text-align: center;">
-      <a href="https://twitter.com/jlehtoma">@jlehtoma</a>
-    </h3>
-  </div>
-  <div class="span7">
-  <ol>
-    <li> 
-      Helsingin yliopisto, biotieteiden laitos, <a href="http://cbig.it.helsinki.fi/people/#joona-lehtomaki">Conservation Biology Informatics Group</a>
-    </li>
-    <li>
-      Suomen ympäristökeskus, <a href="http://goo.gl/8O1GB">luontoympäristökeskus</a>
-    </li>
-    <li>
-      <a href="http://louhos.github.io/">Louhos</a>-yhteisö
-    </li>
-    </ol>
-  
+  <div class="span9 offset1">
+
+<ul>
+<li>
+Helsingin yliopisto, biotieteiden laitos, <a href="http://cbig.it.helsinki.fi/people/#joona-lehtomaki">Conservation Biology Informatics Group</a>
+</li>
+<li>
+Suomen ympäristökeskus, <a href="http://goo.gl/8O1GB">luontoympäristökeskus</a>
+</li>
+<li>
+<a href="http://louhos.github.io/">Louhos</a>-yhteisö
+</li>
+</ul>
+
   </div>
 </div>
 
@@ -71,7 +63,7 @@ Toistettavuus:
 
 <img src="http://www.nextnewdeal.net/sites/default/files/styles/large/public/content_images/reinhart_rogoff_coding_error_0.png" />
 
-Reinhart & Rogoff, "<a href="http://www.nber.org/papers/w15639.pdf">Growth in a Time of Debt</a>"  
+Reinhart & Rogoff: <a href="http://www.nber.org/papers/w15639.pdf">Growth in a Time of Debt</a>  
 <span class="source">Kuvan lähde: <a href="http://www.nextnewdeal.net/rortybomb/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems">Next New Deal</a></span>
 
 --- #title-toistettavuus &vcenter
@@ -83,8 +75,8 @@ Reinhart & Rogoff, "<a href="http://www.nber.org/papers/w15639.pdf">Growth in a 
 --- #R-intro2 &vcenter
 
 <div class="row">
-  <div class="span2">
-    <img src="http://www.lindinglab.org/external-files/images/Rlogo1.png/image" height="125" / >
+  <div class="span2" style="margin-bottom: 30px;">
+    <img src="http://www.lindinglab.org/external-files/images/Rlogo1.png/image" height="80" / >
   </div>
   <div class="span8">
     <h2><a href="http://cran.r-project.org">http://cran.r-project.org</a></h2>
@@ -130,10 +122,9 @@ Kysymysten määrä eri foorumeilla 10.2.2013
 <img src="assets/img/toistettava_analyysi_web.png" />  
 <span class="source">Lähde: <a href="http://markuskainu.fi/r-tutorial/repro/suomeksi.html">Markus Kainu</a></span>
 
---- #source &vcenter
+--- #markdown
 
-<a href="https://github.com/louhos/gtpLouhos"><img src="http://octodex.github.com/images/collabocats.jpg" height="400" /></a>  
-Esityksen lähdekoodi
+<iframe src="http://markable.in/editor/">O-ou, ei onnistu...</iframe>
 
 --- #xkcd &vcenter
 
@@ -158,7 +149,7 @@ Esityksen lähdekoodi
 
 --- #datawiki-intro &vcenter
 
-## <span class="orange">datawiki</span> - esimerkkeihin perustuva dataopas
+## <span class="orange">datawiki</span> - dataopas esimerkkeihin 
 
 > 1. <span class="emphasis">Datakatalogi</span> mukana n. 20 kotimaista tietolähdettä
 > 1. <span class="emphasis">Käyttöesimerkit</span> toistettavat esimerkit sorvilla
@@ -192,7 +183,7 @@ Esityksen lähdekoodi
 
 --- #hsy-pks-1 &vcenter
 
-## HSY:n väestöruudukko pääkaupunkiseudulla
+## HSY:n väestöruudukko pk-seudulla
 
 <div class="row">
   <div class="span2" style="padding-top: 65px;">

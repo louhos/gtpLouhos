@@ -52,13 +52,13 @@ article p, article li, article li.build{
 .attribution {
   color: #fff;
   position: absolute;
-  bottom: 0px;
+  bottom: 20px;
   font-size: 16px;
 }
 
 .source {
   position: absolute;
-  bottom: 0px;
+  bottom: 20px;
   font-size: 26px;
 }
 
