@@ -43,8 +43,15 @@ article p, article li, article li.build{
 
 /* Misc */
 
- .presenter {
-    margin-right: 25px;
+.emphasis {
+  color: #46d1fd;
+  font-weight: bold;
+}
+
+.presenter {
+   display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 article p, article li, article .build {
