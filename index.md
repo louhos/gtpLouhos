@@ -60,7 +60,7 @@ Suomen ympäristökeskus, <a href="http://goo.gl/8O1GB">luontoympäristökeskus<
 
 <div class="row">
   <div class="span2" style="margin-bottom: 30px;">
-    <img src="http://www.lindinglab.org/external-files/images/Rlogo1.png/image" height="80" / >
+    <img src="assets/img/R_logo.png" / >
   </div>
   <div class="span8">
     <h2><a href="http://cran.r-project.org">http://cran.r-project.org</a></h2>
@@ -127,6 +127,8 @@ R-pakettien lukumäärä 19.3.2013
 > 1. <span class="emphasis">Vuorovaikutteisuus</span> nopea datan seulonta ja visualisointi
 > 1. <span class="emphasis">Lokalisoitu</span> kotimaisiin tarpeisiin
 
+<span class="source">[http://louhos.github.io/sorvi/](http://louhos.github.io/sorvi/)</span>
+
 --- #datawiki-intro &vcenter
 
 ## <span class="orange">datawiki</span> - dataopas esimerkkeihin 
@@ -134,6 +136,8 @@ R-pakettien lukumäärä 19.3.2013
 > 1. <span class="emphasis">Datakatalogi</span> mukana n. 20 kotimaista tietolähdettä
 > 1. <span class="emphasis">Käyttöesimerkit</span> toistettavat esimerkit sorvilla
 > 1. <span class="emphasis">Kehittäjäyhteisön tuki</span> kaikki voivat osallistua
+
+<span class="source">[http://louhos.github.io/datawiki](http://louhos.github.io/datawiki/index.html)</span>
 
 --- #kuntajako-1 &vcenter
 

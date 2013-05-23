@@ -5,7 +5,8 @@
 }
 
 .title-slide hgroup h1 {
-    color: #46d1fd;
+  
+    color: #1595be;
     margin-bottom: 25px;
 }
 
@@ -30,7 +31,7 @@ slide:not(.segue) h2{
   text-transform: none;
   letter-spacing: -2px;
   line-height: 1.2em;
-  color: #46d1fd;
+  color: #1595be;
 }
 
 /* Fonts and Spacing */
@@ -44,7 +45,7 @@ article p, article li, article li.build{
 /* Misc */
 
 .emphasis {
-  color: #46d1fd;
+  color: #1595be;
   font-weight: bold;
 }
 
@@ -79,7 +80,7 @@ article p, article li, article li.build{
 }
 
 .blue {
-  color: #46d1fd;
+  color: #1595be;
 }
 
 .presenter {
