@@ -38,37 +38,25 @@ Suomen ympäristökeskus, <a href="http://goo.gl/8O1GB">luontoympäristökeskus<
 
 <iframe src="http://louhos.github.io/">O-ou, ei onnistu...</iframe>
 
---- #title-toistettavuus &vcenter
-
-<span class="gigantic">Toistettavuus</span>
-
 --- #data-to-action &vcenter
 
 <img src="assets/img/data_to_action.png" />
 
 --- #gradu-workflow bg:url(assets/img/gradu_workflow.png)
 
---- #problem-1
+--- #problem
 
-## Ongelma tutkimuksessa?
+## Ongelma?
+  
+<br />
+<br />
+<span class="orange">**Tutkimuksessa**</span>
 
-Toistettavuus:
-> 1. "Allows others to build upon existing work and use it to test new ideas and develop methods" 
-(<a href="http://www.scfbm.org/content/8/1/7">Ram, 2013</a>)
-> 2. "While currently there is unilateral emphasis on 'first' discoveries, there should be as much emphasis on replication of discoveries" (<a href="http://www.telegraph.co.uk/technology/3342867/Is-the-spirit-of-Piltdown-man-alive-and-well.html">Ioannidis, 2005</a>)
+> Kuilu julkaisun ja toistettavuuden välillä
 
---- #problem-2 &vcenter
+<span class="orange">**Päätöksenteossa**</span>
 
-## Ongelma päätöksenteossa?
-
-<img src="http://www.nextnewdeal.net/sites/default/files/styles/large/public/content_images/reinhart_rogoff_coding_error_0.png" />
-
-Reinhart & Rogoff: <a href="http://www.nber.org/papers/w15639.pdf">Growth in a Time of Debt</a>  
-<span class="source">Kuvan lähde: <a href="http://www.nextnewdeal.net/rortybomb/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems">Next New Deal</a></span>
-
---- #title-toistettavuus &vcenter
-
-<span class="gigantic">R</span>
+> Onko päätöksenteko palautettavissa aineistoon ja tutkimuksiin?
 
 --- #R-intro1 bg:url(assets/img/R_command_line.png) bg-repeat:no-repeat bg-position:center
 
@@ -83,26 +71,20 @@ Reinhart & Rogoff: <a href="http://www.nber.org/papers/w15639.pdf">Growth in a T
   </div>
 </div>
 
-* Vuorovaikutteinen ja modulaarinen (avoin data, tilastotiede, visualisointi)
-* Tuhansia analyysimenetelmiä
-* Grafiikkaominaisuudet
-* Avoin lähdekoodi sekä laaja käyttäjä- ja kehittäjäyhteisö
+> * Avoimen lähdekoodin ohjelmointikieli ja tilastollisen laskennan ympäristö
+> * Komentorivipohjainen ja vuorovaikutteinen 
+> * Grafiikkaominaisuudet
+> * Laaja käyttäjä- ja kehittäjäyhteisö
+> * Rakenteeltaan modulaarinen ja laajennettavissa
 
 --- #R-intro3 &vcenter
-
-<img src="http://r4stats.files.wordpress.com/2012/04/fig_7a_scholarlyimpactbig61.png" />
-
-Analyysiohjelmien akateeminen käyttö (Google Scholar)  
-<span class="source">Lähde: <a href="http://r4stats.com/2013/05/14/beginning-of-the-end-v2/">r4stats.com</a></span>
-
---- #R-intro4 &vcenter
 
 <img src="http://r4stats.files.wordpress.com/2012/04/fig_1a_listserv11.png" />
 
 Liikenne sähköpostilistoilla (listerv)  
 <span class="source">Lähde: <a href="http://r4stats.com/2013/05/14/beginning-of-the-end-v2/">r4stats.com</a></span>
 
---- #R-intro5 &vcenter
+--- #R-intro4 &vcenter
 
 <img src="http://r4stats.files.wordpress.com/2012/04/fig_1b_forums.png" height="500"/>
 
@@ -113,29 +95,38 @@ Kysymysten määrä eri foorumeilla 10.2.2013
 
 <span class="attribution">Photo by premus on <a href="http://www.fotopedia.com/items/flickr-2677729640">Flickr</a>, CC-BY</span>
 
+--- #R-intro5 &vcenter
+
+<span class="gigantic">6275</span>
+
+<span class="source">Lähde: <a href="http://r4stats.com/2013/05/14/beginning-of-the-end-v2/">r4stats.com</a></span>
+
+R-pakettien lukumäärä 19.3.2013
+
 --- #r-ecosystem2 &vcenter
 
+## R ja toistettavuus
+
 <img src="assets/img/tech_logos.png" />
+
+--- #markdown
+
+<iframe src="http://markable.in/editor/">O-ou, ei onnistu...</iframe>
+
+--- #r-ecosystem2 bg:black
+
+<iframe src="http://sorvivalas.com:8787/  ">O-ou, ei onnistu...</iframe>
 
 --- #r-ecosystem3 &vcenter
 
 <img src="assets/img/toistettava_analyysi_web.png" />  
 <span class="source">Lähde: <a href="http://markuskainu.fi/r-tutorial/repro/suomeksi.html">Markus Kainu</a></span>
 
---- #markdown
-
-<iframe src="http://markable.in/editor/">O-ou, ei onnistu...</iframe>
-
 --- #xkcd &vcenter
 
 <img src="assets/img/tar.png" /> 
 
 <span class="source">Lähde: <a href="http://xkcd.com/1168/">XKCD 1168</a></span>
-
---- #title-sorvi &vcenter
-
-## Toistettavuus + R + avoin data =   
-<span class="gigantic" style="">sorvi ja datawiki</span>
 
 --- #sorvi-intro &vcenter
 
@@ -176,10 +167,6 @@ Kysymysten määrä eri foorumeilla 10.2.2013
 <span class="source">Lähde: <a href="https://louhos.wordpress.com/2012/02/26/uuden-kuntajaon-mukainen-kuntien-yhdistaminen-ja-visualisointi/">Louhos-blogi</a></span>
 
 --- #kuntajako-2 bg:url(assets/img/datawiki_kuntajako.png) bg-repeat:no-repeat bg-position:center
-
---- #r-ecosystem2 bg:black
-
-<iframe src="http://sorvivalas.com:8787/  ">O-ou, ei onnistu...</iframe>
 
 --- #hsy-pks-1 &vcenter
 
