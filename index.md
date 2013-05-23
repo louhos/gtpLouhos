@@ -32,15 +32,11 @@ Suomen ympäristökeskus, <a href="http://goo.gl/8O1GB">luontoympäristökeskus<
   </div>
 </div>
 
---- bg:url(assets/img/louhos_admins.png) bg-repeat:no-repeat bg-position:center
-
 --- #louhos-intro &notitle bg:black
 
 <iframe src="http://louhos.github.io/">O-ou, ei onnistu...</iframe>
 
---- #data-to-action &vcenter
-
-<img src="assets/img/data_to_action.png" />
+--- bg:url(assets/img/louhos_admins.png) bg-repeat:no-repeat bg-position:center
 
 --- #gradu-workflow bg:url(assets/img/gradu_workflow.png)
 
@@ -82,13 +78,6 @@ Suomen ympäristökeskus, <a href="http://goo.gl/8O1GB">luontoympäristökeskus<
 <img src="http://r4stats.files.wordpress.com/2012/04/fig_1a_listserv11.png" />
 
 Liikenne sähköpostilistoilla (listerv)  
-<span class="source">Lähde: <a href="http://r4stats.com/2013/05/14/beginning-of-the-end-v2/">r4stats.com</a></span>
-
---- #R-intro4 &vcenter
-
-<img src="http://r4stats.files.wordpress.com/2012/04/fig_1b_forums.png" height="500"/>
-
-Kysymysten määrä eri foorumeilla 10.2.2013  
 <span class="source">Lähde: <a href="http://r4stats.com/2013/05/14/beginning-of-the-end-v2/">r4stats.com</a></span>
 
 --- #r-ecosystem bg:url(assets/img/ecosystem.jpg) bg-repeat:no-repeat bg-position:center
